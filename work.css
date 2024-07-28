@@ -144,7 +144,7 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url("/linkedIn.png");
+  background-image: url("linkedIn.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -155,7 +155,7 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url("/facebook.png");
+  background-image: url("facebook.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
